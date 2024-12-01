@@ -12,5 +12,9 @@ This tool is designed for efficient file management, helping to reduce redundanc
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/recent-files-tracker.git
+   git clone https://github.com/john1505/recent-files-tracker.git
    cd recent-files-tracker
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   

@@ -40,8 +40,8 @@ These are the gadgets that have been part of my tech journey but are now retired
 ### Past Devices
 - **Smartphone**: iPhone 3GS (2009–2011)  
   My very first smartphone – a game-changer at the time.
-- **Laptop**: Dell XPS 13 (2016–2020)  
-  A reliable companion during my early career days.
+- **Sony WH-1000XM5**  
+  Exceptional noise-canceling headphones for ultimate focus.
 
 ---
 
@@ -49,8 +49,7 @@ These are the gadgets that have been part of my tech journey but are now retired
 Aspirations and wishlist items that I hope to own in the future.
 
 ### Wishlist
-- **Sony WH-1000XM5**  
-  Exceptional noise-canceling headphones for ultimate focus.
+
 - **MacBook Air M3**  
   Lightweight yet powerful – a dream for on-the-go creativity.
 - **LG OLED TV**  

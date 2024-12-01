@@ -54,7 +54,16 @@ Aspirations and wishlist items that I hope to own in the future.
 - **LG OLED TV**  
   Crystal-clear visuals for the perfect home cinema experience.
 
+### Home Setup Planning 🌟
+
+- **Mac Mini M2**
+  - For Photo Backup. My iphone needs some space.
+  - 따라서, 아이폰 업그레이드 플랜은 미룸.
+  - infinite Storage. Basic 512 GB + thunderbolt M.2SSD
 ---
+- **Display**
+  - 
+ 
 
 Feel free to explore and get inspired! 😊  
 Stay tuned as I update this repository with more gadgets, playlists, and ideas.  

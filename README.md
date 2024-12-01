@@ -25,13 +25,12 @@ Discover the music that keeps me inspired every day.
 Here are the devices I use every day to stay productive and connected.
 
 ### Current Devices
-- **Laptop**: MacBook Air M2 (2022)  
-  Sleek and powerful for all my work needs.
-- **Smartphone**: Samsung Galaxy S23 Ultra  
-  A versatile companion for productivity and photography.
-- **Headphones**: Sony WF-1000XM5  
-  Immersive sound with top-tier noise cancelation.
-
+- **Laptop**: ThinkPad T14s Gen 4 Intel i7 (2024)  
+  Portable yet powerful, perfect for all my needs.
+- **Smartphone**: iphone 11 Pro 256GB  
+  1234.
+- **earbuds**: QCY AilyBuds Pro+  
+  cheap and powerful. I can still wait until upcoming Airpod Pro 3(4Q25) with this QCY.
 ---
 
 ## RRD - Ray Retired Devices 🛠️

@@ -41,7 +41,7 @@ These are the gadgets that have been part of my tech journey but are now retired
 - **Smartphone**: iPhone 3GS (2009–2011)  
   My very first smartphone – a game-changer at the time.
 - **Sony WH-1000XM5**  
-  - Sold after one month; great reviews but didn’t live up to the hype on iPhone.- [Sony WH-1000XM5](reviews/2024_sony_wh-1000XM5.md)
+  - Sold after one month; great reviews but didn’t live up to the hype on iPhone.- [Review Link](reviews/2024_sony_wh-1000XM5.md)
 
 ---
 
